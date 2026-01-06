@@ -10,7 +10,7 @@ This application demonstrates a user interface for diet breakfast recommendation
 * **Channel:** [Flutter Guys]
 
 ## 📸 Screenshots
-<img src="path/to/your/screenshot.jpg" width="300" />
+<img src="ss.png" width="300" />
 
 ## ✨ Key Features
 * **Category Filtering:** UI for selecting different food categories.
